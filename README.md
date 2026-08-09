@@ -17,7 +17,7 @@
 2. [吾爱破解：MobaXterm 汉化相关帖子 2015234](https://www.52pojie.cn/forum.php?mod=viewthread&tid=2015234&highlight=Mobaxterm)
 3. [吾爱破解：MobaXterm 汉化相关帖子 2017877](https://www.52pojie.cn/forum.php?mod=viewthread&tid=2017877&highlight=MobaXterm)
 4. [ntgengyf/MobaXterm-Chinese-Simplified](https://github.com/ntgengyf/MobaXterm-Chinese-Simplified)
-5. [吾爱破解：MobaXterm README 相关帖子](https://www.52pojie.cn/forum.php?mod=viewthread&tid=2112554&highlight=mobaxterm%E3%80%82README.)
+5. [吾爱破解：MobaXterm 26.4 汉化相关帖子](https://www.52pojie.cn/forum.php?mod=viewthread&tid=2112554&highlight=mobaxterm%E3%80%82README.)
 
 ## 参考资料
 
